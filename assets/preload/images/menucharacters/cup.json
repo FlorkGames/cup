@@ -1,0 +1,11 @@
+{
+	
+	"image": "menu_cup",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "m cup idle",
+	"confirm_anim": "m cup idle"
+}
