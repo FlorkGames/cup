@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "attack",
+			"fps": 16,
+			"name": "DIE BITCH",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "idle",
+			"fps": 52,
+			"name": "1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				130
+			],
+			"anim": "attack2",
+			"fps": 16,
+			"name": "Hadoken",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 52,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 52,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-59
+			],
+			"anim": "singRIGHT",
+			"fps": 52,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 41,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-80
+			],
+			"anim": "ouch",
+			"fps": 41,
+			"name": "Ouch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singUP-alt",
+			"fps": 41,
+			"name": "PewUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-114
+			],
+			"anim": "singDOWN-alt",
+			"fps": 41,
+			"name": "pewdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-60
+			],
+			"anim": "singLEFT-alt",
+			"fps": 41,
+			"name": "Pewleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-50
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 41,
+			"name": "PewRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cuphead Peeved",
+	"position": [
+		130,
+		370
+	],
+	"healthicon": "icon-pissed-cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		20,
+		140
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

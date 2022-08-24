@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 52,
+			"name": "cuphead up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-169
+			],
+			"anim": "singDOWN",
+			"fps": 52,
+			"name": "cuphead down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "idle",
+			"fps": 52,
+			"name": "cuphead idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 52,
+			"name": "cuphead left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-147
+			],
+			"anim": "singRIGHT",
+			"fps": 52,
+			"name": "cuphead right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bothered_Cuphead",
+	"position": [
+		10,
+		270
+	],
+	"healthicon": "icon-annoyed-cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		145,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
