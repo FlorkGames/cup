@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bothered_Cuphead.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuphead down0000" x="293" y="5" width="294" height="221" frameX="0" frameY="-27" frameWidth="294" frameHeight="221"/>
+	<SubTexture name="cuphead idle0000" x="293" y="236" width="233" height="246" frameX="0" frameY="-19" frameWidth="233" frameHeight="246"/>
+	<SubTexture name="cuphead left0000" x="576" y="260" width="221" height="261" frameX="-1" frameY="-18" frameWidth="221" frameHeight="261"/>
+	<SubTexture name="cuphead right0000" x="597" y="5" width="300" height="245" frameX="-2" frameY="-19" frameWidth="300" frameHeight="245"/>
+	<SubTexture name="cuphead up0000" x="5" y="5" width="278" height="257" frameX="0" frameY="0" frameWidth="278" frameHeight="257"/>
+</TextureAtlas>

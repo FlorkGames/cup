@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Rain.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN0000" x="815" y="5" width="374" height="355" frameX="-1" frameY="-5" frameWidth="374" frameHeight="355"/>
+	<SubTexture name="BF NOTE LEFT0000" x="5" y="5" width="382" height="405" frameX="0" frameY="0" frameWidth="38w" frameHeight="405"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="397" y="5" width="408" height="404" frameX="0" frameY="-2" frameWidth="408" frameHeight="404"/>
+	<SubTexture name="BF NOTE UP0000" x="397" y="419" width="376" height="439" frameX="-4" frameY="0" frameWidth="376" frameHeight="439"/>
+	<SubTexture name="BF idle dance0000" x="815" y="370" width="409" height="413" frameX="0" frameY="-26" frameWidth="409" frameHeight="413"/>
+</TextureAtlas>
